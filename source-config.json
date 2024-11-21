@@ -1,0 +1,7 @@
+[
+  {
+    "domain": "https://www.reddit.com/r/golang",
+    "rssUrl": "https://www.reddit.com/r/golang.rss",
+    "targetWebhook": "http://localhost:8080"
+  }
+]

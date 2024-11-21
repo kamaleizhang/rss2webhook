@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <category term="golang" label="r/golang"/>
+  <updated>2024-11-20T01:44:14+00:00</updated>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <id>/r/golang.rss</id>
+  <link rel="self" href="https://www.reddit.com/r/golang.rss" type="application/atom+xml"/>
+  <link rel="alternate" href="https://www.reddit.com/r/golang" type="text/html"/>
+  <logo>https://b.thumbs.redditmedia.com/7BDtSXbohQaPFuaa6oCA5HtE53Flgld6rj3G7-TavDs.png</logo>
+  <subtitle>Ask questions and post articles about the Go programming language and related tools,
+    events etc.
+  </subtitle>
+  <title>The Go Programming Language</title>
+  <entry>
+    <author>
+      <name>/u/jerf</name>
+      <uri>https://www.reddit.com/user/jerf</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This post
+      will be stickied at the top of until the last week of November (more or less).&lt;/p&gt; &lt;p&gt;Please
+      adhere to the following rules when posting:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Rules for
+      individuals:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Don&amp;#39;t create top-level
+      comments; those are for employers.&lt;/li&gt; &lt;li&gt;Feel free to reply to top-level
+      comments with on-topic questions.&lt;/li&gt; &lt;li&gt;Meta-discussion should be reserved for
+      the distinguished mod comment.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Rules for
+      employers:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;To make a top-level comment you must
+      be hiring directly, or a focused third party recruiter with &lt;strong&gt;specific jobs with
+      named companies&lt;/strong&gt; in hand. No recruiter fishing for contacts please.&lt;/li&gt;
+      &lt;li&gt;The job must involve working with Go on a regular basis, even if not 100% of the
+      time.&lt;/li&gt; &lt;li&gt;One top-level comment per employer. If you have multiple job
+      openings, please consolidate their descriptions or mention them in replies to your own
+      top-level comment.&lt;/li&gt; &lt;li&gt;Please base your comment on the following template:&lt;/li&gt;
+      &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;COMPANY:&lt;/strong&gt; &lt;em&gt;[Company name; ideally
+      link to your company&amp;#39;s website or careers page.]&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;TYPE:&lt;/strong&gt;
+      &lt;em&gt;[Full time, part time, internship, contract, etc.]&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;DESCRIPTION:&lt;/strong&gt;
+      &lt;em&gt;[What does your team/company do, and what are you using Go for? How much experience
+      are you seeking and what seniority levels are you hiring for? The more details the better.]&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;LOCATION:&lt;/strong&gt; &lt;em&gt;[Where are your office or offices
+      located? If your workplace language isn&amp;#39;t English-speaking, please specify it.]&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;ESTIMATED COMPENSATION:&lt;/strong&gt; &lt;em&gt;[Please attempt to
+      provide at least a rough expectation of wages/salary.If you can&amp;#39;t state a number for
+      compensation, omit this field. Do not just say &amp;quot;competitive&amp;quot;. Everyone says
+      their compensation is &amp;quot;competitive&amp;quot;.If you are listing several positions in
+      the &amp;quot;Description&amp;quot; field above, then feel free to include this information
+      inline above, and put &amp;quot;See above&amp;quot; in this field.If compensation is expected
+      to be offset by other benefits, then please include that information here as well.]&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;REMOTE:&lt;/strong&gt; &lt;em&gt;[Do you offer the option of working
+      remotely? If so, do you require employees to live in certain areas or time zones?]&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;VISA:&lt;/strong&gt; &lt;em&gt;[Does your company sponsor visas?]&lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;CONTACT:&lt;/strong&gt; &lt;em&gt;[How can someone get in touch with
+      you?]&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32;
+      &lt;a href=&quot;https://www.reddit.com/user/jerf&quot;&gt; /u/jerf &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gh4uwz/whos_hiring_november_2024/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gh4uwz/whos_hiring_november_2024/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gh4uwz</id>
+    <link href="https://www.reddit.com/r/golang/comments/1gh4uwz/whos_hiring_november_2024/"/>
+    <updated>2024-11-01T13:03:18+00:00</updated>
+    <published>2024-11-01T13:03:18+00:00</published>
+    <title>Who's Hiring - November 2024</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Background-Region347</name>
+      <uri>https://www.reddit.com/user/Background-Region347</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sometimes we
+      need to fetch different things from different sources to use together. What&amp;#39;s your
+      favorite way to accomplish this? Errgroup with local variables for all the data expected? One
+      channel per task/type? Some kind of async/await wrapper?&lt;/p&gt; &lt;p&gt;Personally I tend
+      to use errgroups with writing to local variables but it&amp;#39;s quite messy to keep
+      everything in the same scope, but i think it&amp;#39;s nice to &amp;quot;hide&amp;quot; the
+      concurrency and not pass channels around&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32;
+      submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Background-Region347&quot;&gt;
+      /u/Background-Region347 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvacbu/what_is_your_favorite_pattern_for_asyncawaitlike/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvacbu/what_is_your_favorite_pattern_for_asyncawaitlike/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gvacbu</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gvacbu/what_is_your_favorite_pattern_for_asyncawaitlike/"/>
+    <updated>2024-11-19T22:46:59+00:00</updated>
+    <published>2024-11-19T22:46:59+00:00</published>
+    <title>What is your favorite pattern for async/await-like tasks?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/donseba</name>
+      <uri>https://www.reddit.com/user/donseba</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TLDR; &lt;a
+      href=&quot;https://github.com/donseba/go-partial&quot;&gt;go-partial&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Hey
+      Gophers!&lt;/p&gt; &lt;p&gt;I wanted to share a package I&amp;#39;ve been working on called
+      &lt;strong&gt;go-partial&lt;/strong&gt;. It&amp;#39;s designed to make rendering partial
+      templates in Go a lot easier.&lt;/p&gt; &lt;p&gt;Originally, I created go-partial as a
+      companion to my other package, &lt;a href=&quot;https://github.com/donseba/go-htmx&quot;&gt;go-htmx&lt;/a&gt;.
+      I needed a way to respond to &lt;code&gt;hx-target&lt;/code&gt; requests by rendering only the
+      specific part of the page without adding extra logic to my handlers.&lt;/p&gt; &lt;p&gt;But as
+      I worked on it, I realized this isn&amp;#39;t just an htmx problem. It&amp;#39;s also a valid
+      use case for tools like alpine-ajax and maybe even others. I&amp;#39;m also working on a
+      custom super lightweight frontend script that will benefit from this.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s
+      the basic idea:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Initialize the service&lt;/strong&gt;
+      at the outermost layer of your application.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In your handler&lt;/strong&gt;,
+      you create a new layout and add your content to it.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Without
+      a specific header&lt;/strong&gt;, it renders the whole page.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;With
+      the configurable header&lt;/strong&gt;, it only renders the requested partial.&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;This way, you can easily render just parts of your page in response to AJAX requests,
+      without having to write extra logic for partial rendering.&lt;/p&gt; &lt;p&gt;If you&amp;#39;re
+      interested, check it out on GitHub: &lt;a href=&quot;https://github.com/donseba/go-partial&quot;&gt;go-partial&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I&amp;#39;d love to hear your feedback or any suggestions!&lt;/p&gt; &lt;p&gt;Cheers!&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt;: For those wondering why I stick with Go&amp;#39;s
+      standard templating system, I&amp;#39;ve written a couple of documents explaining my reasoning
+      in the go-htmx package:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://github.com/donseba/go-htmx/blob/main/LOB.md&quot;&gt;Locality
+      of Behavior (LOB)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://github.com/donseba/go-htmx/blob/main/DESIGN_DECISIONS.md&quot;&gt;Design
+      Decisions&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I&amp;#39;d love to hear your feedback or
+      any suggestions!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32;
+      &lt;a href=&quot;https://www.reddit.com/user/donseba&quot;&gt; /u/donseba &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv5bhy/go_partial_partial_page_rendering_for_go/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv5bhy/go_partial_partial_page_rendering_for_go/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gv5bhy</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv5bhy/go_partial_partial_page_rendering_for_go/"/>
+    <updated>2024-11-19T19:14:53+00:00</updated>
+    <published>2024-11-19T19:14:53+00:00</published>
+    <title>Go Partial - Partial Page Rendering for Go</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Financial_Airport933</name>
+      <uri>https://www.reddit.com/user/Financial_Airport933</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As the title
+      suggests, I&amp;#39;d love to hear about your favorite ways of structuring the golang project.&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Financial_Airport933&quot;&gt;
+      /u/Financial_Airport933 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv98ep/what_is_your_favorite_golang_structure/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv98ep/what_is_your_favorite_golang_structure/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gv98ep</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv98ep/what_is_your_favorite_golang_structure/"/>
+    <updated>2024-11-19T21:59:57+00:00</updated>
+    <published>2024-11-19T21:59:57+00:00</published>
+    <title>What is your favorite golang structure ?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/charbz</name>
+      <uri>https://www.reddit.com/user/charbz</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all, I
+      was really jealous of Scala&amp;#39;s flexible collections library and I decided to port some
+      of that functionality over to Go. &lt;/p&gt; &lt;p&gt;I built this open source package for Go
+      where you can get tons of functionality right out of the box. &lt;a href=&quot;https://github.com/charbz/gophers&quot;&gt;https://github.com/charbz/gophers&lt;/a&gt;
+      &lt;/p&gt; &lt;p&gt;I am looking for some feedback, please help me make this useful to others
+      as it is for me.&lt;br/&gt; Any feedback is welcome&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt;
+      &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/charbz&quot;&gt;
+      /u/charbz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvb63q/gophers_generic_collection_utils_for_go/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvb63q/gophers_generic_collection_utils_for_go/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gvb63q</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gvb63q/gophers_generic_collection_utils_for_go/"/>
+    <updated>2024-11-19T23:23:34+00:00</updated>
+    <published>2024-11-19T23:23:34+00:00</published>
+    <title>Gophers: Generic collection utils for Go</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Tefkal1on</name>
+      <uri>https://www.reddit.com/user/Tefkal1on</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I want to
+      share my project &lt;a href=&quot;https://github.com/Pashgunt/converter&quot;&gt;https://github.com/Pashgunt/converter&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;The library was invented at the moment when I faced the following problem. I&amp;#39;ll
+      try to describe it briefly. We may have a different set of data for different operations, for
+      example, to work with one entity (which is especially common in web development), but we do
+      not want to create a new structure for each operation and deserialize it. To do this, the
+      concept was invented to declare the structure once and regulate a specific set of fields
+      through the group attributes of the fields. In short , this is so ...&lt;/p&gt; &lt;p&gt;P.S.
+      I wonder if this project is worth attention or if it&amp;#39;s not very good or if there are
+      already some more powerful analogues&lt;/p&gt; &lt;p&gt;P.S.S. If the project is worth
+      attention, it will be very important for me if you rate&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt;
+      &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Tefkal1on&quot;&gt;
+      /u/Tefkal1on &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv80y0/group_data_converter/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv80y0/group_data_converter/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gv80y0</id>
+    <link href="https://www.reddit.com/r/golang/comments/1gv80y0/group_data_converter/"/>
+    <updated>2024-11-19T21:08:58+00:00</updated>
+    <published>2024-11-19T21:08:58+00:00</published>
+    <title>Group data converter</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Objective-Pound8445</name>
+      <uri>https://www.reddit.com/user/Objective-Pound8445</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Currently I&amp;#39;m
+      trying to map pgx rows (with multiple joins) to struct with 2 nested levels. I tried to find
+      solutions that do this out of the box, but I was not able to make it work with my findings.&lt;br/&gt;
+      So here is my structure that I have as row:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;// Workout
+      properties ID pgtype.Text Name pgtype.Text Image pgtype.Text Description pgtype.Text //
+      Exercise properties ExerciseID pgtype.Text ExerciseName pgtype.Text ExerciseImage pgtype.Text
+      ExerciseVideo pgtype.Text ExerciseDescription pgtype.Text ExerciseSteps pgtype.Text
+      ExerciseLocation pgtype.Text EquipmentName pgtype.Text MuscleGroupName pgtype.Text
+      MuscleGroupRole pgtype.Text ExerciseSequence pgtype.Int4 // Set properties SetSequence
+      pgtype.Int4 SetReps pgtype.Int4 SetWeight pgtype.Int4 SetDuration pgtype.Int4 SetDistance
+      pgtype.Int4 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;and I want to map it to this one&lt;/p&gt; &lt;pre&gt;&lt;code&gt;type
+      Workout struct { ID string Image string Name string Description string Exercises []Exercise }
+      type Exercise struct { ID string Name string Image string Video string Description string
+      Steps []string Location string Equipment []string PrimaryMuscleGroups []string
+      SecondaryMuscleGroups []string Sequence *int Sets []Set } type Set struct { Sequence int Reps
+      *int Weight *int Duration *int Distance *int } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Do you have
+      any ideas how to do that or know some good libraries that can do that automatically? I am
+      currently doing one query, do you think it would be better to do more in this case scenario? I
+      would appreciate any ideas or guidance you could provide.&lt;br/&gt; Notice that the set does
+      not have id so it should be specific for each workout and exercise combination.&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Objective-Pound8445&quot;&gt;
+      /u/Objective-Pound8445 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv4qkm/mapping_pgx_row_to_struct_with_multiple_nested/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv4qkm/mapping_pgx_row_to_struct_with_multiple_nested/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gv4qkm</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv4qkm/mapping_pgx_row_to_struct_with_multiple_nested/"/>
+    <updated>2024-11-19T18:51:22+00:00</updated>
+    <published>2024-11-19T18:51:22+00:00</published>
+    <title>Mapping pgx row to struct with multiple nested levels</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Serious_Worker_9871</name>
+      <uri>https://www.reddit.com/user/Serious_Worker_9871</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv9abh/made_a_spy_pixel_server_with_chi/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/R-14KztPmITCrJowxo049VvN9UI8bFblmC8nEgF_s18.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=122d8f80ef4ad321c08fbeda094719e77a9770d1&quot;
+      alt=&quot;Made a spy pixel server with chi&quot; title=&quot;Made a spy pixel server with chi&quot;
+      /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I
+      recently made this project for fun. It’s a server that tracks when a specific target reads
+      your email. It works by generating a custom id for each target and by using that id, you can
+      add the spy pixel in an img tag in your emails &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt;
+      &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Serious_Worker_9871&quot;&gt;
+      /u/Serious_Worker_9871 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://github.com/YasTheGoat/Spixel&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv9abh/made_a_spy_pixel_server_with_chi/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gv9abh</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/R-14KztPmITCrJowxo049VvN9UI8bFblmC8nEgF_s18.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=122d8f80ef4ad321c08fbeda094719e77a9770d1"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv9abh/made_a_spy_pixel_server_with_chi/"/>
+    <updated>2024-11-19T22:02:04+00:00</updated>
+    <published>2024-11-19T22:02:04+00:00</published>
+    <title>Made a spy pixel server with chi</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Asleep_Beyond1371</name>
+      <uri>https://www.reddit.com/user/Asleep_Beyond1371</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv6dd5/golang_sdk_for_ssoready_add_saml_scim_support_to/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/O1JVKylBgJvDH_vrZVmJqfUkTV08uVq5Z6JE-z21reE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=818a2adc237e96ff18536b4fce9a8ec4c0e90782&quot;
+      alt=&quot;Golang SDK for SSOReady. Add SAML + SCIM support to any Go application this
+      afternoon.&quot; title=&quot;Golang SDK for SSOReady. Add SAML + SCIM support to any Go
+      application this afternoon.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted
+      by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Asleep_Beyond1371&quot;&gt;
+      /u/Asleep_Beyond1371 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://github.com/ssoready/ssoready-go&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv6dd5/golang_sdk_for_ssoready_add_saml_scim_support_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gv6dd5</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/O1JVKylBgJvDH_vrZVmJqfUkTV08uVq5Z6JE-z21reE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=818a2adc237e96ff18536b4fce9a8ec4c0e90782"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv6dd5/golang_sdk_for_ssoready_add_saml_scim_support_to/"/>
+    <updated>2024-11-19T19:59:31+00:00</updated>
+    <published>2024-11-19T19:59:31+00:00</published>
+    <title>Golang SDK for SSOReady. Add SAML + SCIM support to any Go application this afternoon.
+    </title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pippopollo</name>
+      <uri>https://www.reddit.com/user/pippopollo</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all.&lt;/p&gt;
+      &lt;p&gt;It&amp;#39;s possible to retrieve the line number where a variable is declared (or
+      assigned)?&lt;/p&gt; &lt;p&gt;For example in this code &lt;a href=&quot;https://go.dev/play/p/YNsVx3B5Ema&quot;&gt;https://go.dev/play/p/YNsVx3B5Ema&lt;/a&gt;&lt;/p&gt;
+      &lt;pre&gt;&lt;code&gt;package main import &amp;quot;fmt&amp;quot; func main() { x := &amp;quot;Here&amp;quot;
+      fmt.Printf(&amp;quot;x has value: &amp;#39;%s&amp;#39; and is declared at line: %d&amp;quot;,
+      x, 6) } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;It is possible in some way to programmatically
+      retrieve the line number &amp;quot;6&amp;quot;?&lt;br/&gt; Thx&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/pippopollo&quot;&gt;
+      /u/pippopollo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guv26p/get_the_line_number_where_a_variable_is_declared/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guv26p/get_the_line_number_where_a_variable_is_declared/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1guv26p</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1guv26p/get_the_line_number_where_a_variable_is_declared/"/>
+    <updated>2024-11-19T11:31:50+00:00</updated>
+    <published>2024-11-19T11:31:50+00:00</published>
+    <title>Get the line number where a variable is declared or assigned</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Melkeydev</name>
+      <uri>https://www.reddit.com/user/Melkeydev</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvczk3/the_best_tool_for_building_fullstack_projects/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/eE7NhvFpeR_9R0lCMPVNJKMmdzuZ07WOnSoWh_denEs.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e58d8ea3d7cf3fc4bb2d4e2e873f51d19688c6b1&quot;
+      alt=&quot;The BEST Tool for Building Full-Stack Projects (React + Golang) &quot; title=&quot;The
+      BEST Tool for Building Full-Stack Projects (React + Golang) &quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;
+      &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Melkeydev&quot;&gt;
+      /u/Melkeydev &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLhHqpY85TE&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gvczk3/the_best_tool_for_building_fullstack_projects/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gvczk3</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/eE7NhvFpeR_9R0lCMPVNJKMmdzuZ07WOnSoWh_denEs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e58d8ea3d7cf3fc4bb2d4e2e873f51d19688c6b1"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gvczk3/the_best_tool_for_building_fullstack_projects/"/>
+    <updated>2024-11-20T00:46:28+00:00</updated>
+    <published>2024-11-20T00:46:28+00:00</published>
+    <title>The BEST Tool for Building Full-Stack Projects (React + Golang)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stroiman</name>
+      <uri>https://www.reddit.com/user/stroiman</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A little less
+      than two weeks ago, I started a crazy idea; to build a headless browser in Go. I started
+      looking into creating an HTML parser; as well as integrating the v8 JavaScript engine in a way
+      that could expose native Go objects as JavaScript objects.&lt;/p&gt; &lt;p&gt;I quickly had a
+      POC on both these topics, but decided to discard the HTML parser. A friendly chap in here
+      pointed me towards the x/net/html package, which I now use internally in a 2-step parsing. A
+      project already existed, v8go, which embeds v8 in Go code. Not all necessary v8 features were
+      implemented; so I had to fork to add support for those necessary.&lt;/p&gt; &lt;p&gt;During
+      the following next week or so, I added more to the DOM model, as well as JavaScript bindings
+      to native objects; and fixing missing v8go features. I eventually managed to execute inline
+      JavaScript during DOM tree construction; verifying that the correct DOM was accessible at the
+      moment of execution.&lt;/p&gt; &lt;p&gt;Yesterday, I achieved the first major milestone. The
+      browser will now download and execute JavaScript from a remote source, i.e. a &lt;code&gt;&amp;lt;script
+      src=&amp;quot;/js/script.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt; will
+      download and execute the script.&lt;/p&gt; &lt;p&gt;As this is intended as a test tool for Go
+      projects, I bypass the the overhead of the TCP stack; which is merely a transport layer on top
+      of HTTP. The browser can consume an &lt;code&gt;http.Handler&lt;/code&gt; instance directly.&lt;/p&gt;
+      &lt;p&gt;The internal test of this behaviour is reasonably simple (using ginkgo/gomega for
+      testing)&lt;/p&gt; &lt;p&gt;&lt;code&gt;golang It(&amp;quot;Should download and execute script
+      from script tags&amp;quot;, func() { // Create a simple server, serving an HTML file and JS
+      server := http.NewServeMux() server.HandleFunc( &amp;quot;GET /index.html&amp;quot;, func(res
+      http.ResponseWriter, req *http.Request) { res.Write( []byte( `&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;&amp;lt;script
+      src=&amp;quot;/js/script.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;Hello,
+      World!&amp;lt;/body&amp;gt;`, ), ) }, ) // The script is pretty basic. In order to verify it
+      has been executed, it // produces an observable side effect; setting a variable in global
+      scope server.HandleFunc( &amp;quot;GET /js/script.js&amp;quot;, func(res http.ResponseWriter,
+      req *http.Request) { res.Header().Add(&amp;quot;Content-Type&amp;quot;, &amp;quot;text/javascript&amp;quot;)
+      res.Write([]byte(`var scriptLoaded = true`)) }, ) // Verify, create a browser communicating
+      with this. Open the HTML file, and // verify the side effect by inspecting global JS scope.
+      browser := ctx.NewBrowserFromHandler(server) Expect(browser.OpenWindow(&amp;quot;/index.html&amp;quot;)).Error().ToNot(HaveOccurred())
+      Expect(ctx.RunTestScript(&amp;quot;window.scriptLoaded&amp;quot;)).To(BeTrue()) }) &lt;/code&gt;&lt;/p&gt;
+      &lt;h2&gt;Next milestone&lt;/h2&gt; &lt;p&gt;It was an interest in a Go/HTMX stack that
+      sparked this project; so the next milestone is to get a very simple HTMX driven app running.
+      This will drive the need for more browser APIs, e.g. &lt;code&gt;XMLHttpRequest&lt;/code&gt;
+      (work under way), &lt;code&gt;XPathEvaluator&lt;/code&gt; (Which I can easily polyfill in JS
+      to begin with, but the DOM needs to support all the necessary methods and properties first),
+      and the &lt;code&gt;location&lt;/code&gt; api, which is what I will address next; after a wee
+      bit of refactoring.&lt;/p&gt; &lt;h2&gt;Check it out&lt;/h2&gt; &lt;p&gt;Now this is EXTREMELY
+      early, and far from reaching a level of usability, feel free to check it out at&lt;/p&gt; &lt;p&gt;&lt;a
+      href=&quot;https://github.com/stroiman/go-dom&quot;&gt;https://github.com/stroiman/go-dom&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;The original v8go project seems somewhat abandoned, but it was picked up by
+      github.com/tommie - who seems to have the most up-to-date fork, and did an amazing job on
+      getting v8 dependencies updated automatically.&lt;/p&gt; &lt;p&gt;Check that out at &lt;a
+      href=&quot;https://github.com/tommie/v8go&quot;&gt;https://github.com/tommie/v8go&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/stroiman&quot;&gt;
+      /u/stroiman &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gud4ab/my_crazy_idea_is_evolving_a_headless_browser/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gud4ab/my_crazy_idea_is_evolving_a_headless_browser/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gud4ab</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gud4ab/my_crazy_idea_is_evolving_a_headless_browser/"/>
+    <updated>2024-11-18T19:25:13+00:00</updated>
+    <published>2024-11-18T19:25:13+00:00</published>
+    <title>My crazy idea is evolving, a headless browser written in Go; to help test Go web
+      applications.
+    </title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/andrewfromx</name>
+      <uri>https://www.reddit.com/user/andrewfromx</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a
+      simple go program that&amp;#39;s been running fine for a year back when I was on mac os 14.5.
+      I run it from terminal like ./my-program and it starts an http server on port 3000. But after
+      upgrading to 15.1 it immediately dies with &amp;quot;71034 killed ./my-program&amp;quot;&lt;/p&gt;
+      &lt;p&gt;Update: just had to download latest from &lt;a href=&quot;https://go.dev/dl/&quot;&gt;https://go.dev/dl/&lt;/a&gt;
+      &lt;/p&gt; &lt;p&gt;go1.23.3 darwin/arm64&lt;/p&gt; &lt;p&gt;re-compile and then it worked. I
+      had go1.21.1 darwin/arm64 before but just re-compiling with that didn&amp;#39;t change
+      anything.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a
+      href=&quot;https://www.reddit.com/user/andrewfromx&quot;&gt; /u/andrewfromx &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guzdxk/upgraded_to_mac_os_151_and_now_go_problem_wont_run/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guzdxk/upgraded_to_mac_os_151_and_now_go_problem_wont_run/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1guzdxk</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1guzdxk/upgraded_to_mac_os_151_and_now_go_problem_wont_run/"/>
+    <updated>2024-11-19T15:12:31+00:00</updated>
+    <published>2024-11-19T15:12:31+00:00</published>
+    <title>upgraded to mac os 15.1 and now go problem won't run</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/originalfaskforce</name>
+      <uri>https://www.reddit.com/user/originalfaskforce</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yesterday,
+      our Wi-Fi connection was out, and I couldn&amp;#39;t access the internet. I decided to pass
+      the time by watching movies, but the only two I had on my laptop were paired with terrible
+      sound quality.&lt;/p&gt; &lt;p&gt;Like any good programmer 😂, I saw it as an opportunity to
+      put my skills to the test. I found an empty Go project on my machine and quickly built a
+      simple streaming server. Problem solved! I streamed Captain Marvel to my phone, and it worked
+      like a charm.&lt;/p&gt; &lt;p&gt;This unexpected mini-project got me really excited about the
+      possibilities. I think it&amp;#39;s time to invest in a Raspberry Pi and take my experiments
+      to the next level.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s the &lt;a href=&quot;https://github.com/luqmanshaban/movie-streamer-golang.git&quot;&gt;code&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;What do you think? Any cool Raspberry Pi projects I should try?&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/originalfaskforce&quot;&gt;
+      /u/originalfaskforce &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu55mx/when_the_wifi_goes_down_ingenuity_kicks_in/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu55mx/when_the_wifi_goes_down_ingenuity_kicks_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gu55mx</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gu55mx/when_the_wifi_goes_down_ingenuity_kicks_in/"/>
+    <updated>2024-11-18T13:51:34+00:00</updated>
+    <published>2024-11-18T13:51:34+00:00</published>
+    <title>When the Wi-Fi goes down, ingenuity kicks in!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/meowgorithm</name>
+      <uri>https://www.reddit.com/user/meowgorithm</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gueigb/sequin_humanreadable_ansi_sequences/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/gK7XoA5dA8E-0Ifj1irNh3pAA7-t6Q1v9HwMsqB9DvI.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=217c4a6a11c939375c8176c1a0eb304bcf41cd44&quot;
+      alt=&quot;Sequin: human-readable ANSI sequences&quot; title=&quot;Sequin: human-readable ANSI
+      sequences&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a
+      href=&quot;https://www.reddit.com/user/meowgorithm&quot;&gt; /u/meowgorithm &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://github.com/charmbracelet/sequin&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gueigb/sequin_humanreadable_ansi_sequences/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gueigb</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/gK7XoA5dA8E-0Ifj1irNh3pAA7-t6Q1v9HwMsqB9DvI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=217c4a6a11c939375c8176c1a0eb304bcf41cd44"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gueigb/sequin_humanreadable_ansi_sequences/"/>
+    <updated>2024-11-18T20:23:01+00:00</updated>
+    <published>2024-11-18T20:23:01+00:00</published>
+    <title>Sequin: human-readable ANSI sequences</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thekoolhatkar</name>
+      <uri>https://www.reddit.com/user/thekoolhatkar</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey folks,
+      had a question about this usage of x/crypto/ssh - ssh.Client.NewSession().Run(cmd) does not
+      sanitize the command that will be run on the destination OS. I would expect it would sanitize
+      same way os.exec&amp;#39;s exec.Command(cmd) does the sanitization so it prevents command
+      injection. Basic search did not find any discussion about this so curios to know if this was
+      brought up in the past or shall I create an issue on Golang Github?&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/thekoolhatkar&quot;&gt;
+      /u/thekoolhatkar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv0wlz/xcryptossh_clientnewsessionruncmd_does_not/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gv0wlz/xcryptossh_clientnewsessionruncmd_does_not/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gv0wlz</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gv0wlz/xcryptossh_clientnewsessionruncmd_does_not/"/>
+    <updated>2024-11-19T16:16:23+00:00</updated>
+    <published>2024-11-19T16:16:23+00:00</published>
+    <title>x/crypto/ssh Client.NewSession().Run(cmd) does not sanitize cmd</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Independent_Dog4</name>
+      <uri>https://www.reddit.com/user/Independent_Dog4</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;A little
+      context&lt;/h1&gt; &lt;p&gt;My relationship with Go has been growing ever stronger. In a world
+      filled with “bulky” languages, Go’s simple syntax, great performance, and pragmatic approach
+      create a renewed sense of enjoyment for me as a developer. Part of what makes Go so compelling
+      is its resistance to unnecessary complexity, which is reflected in the types of libraries
+      available for the language and their simplistic take on resolving issues. Which is why,
+      inspired by Go’s design philosophy, I decided to recreate a popular Javascript library in
+      Golang. My goals were clear: build something lightweight, performant, and idiomatic to Go.
+      Most importantly, I wanted to learn more about Go by tackling this challenge.&lt;/p&gt; &lt;h1&gt;So
+      what did I do?&lt;/h1&gt; &lt;p&gt;Yet another “Express-like” HTTP router for Golang; However
+      I wanted to make it work with the &lt;code&gt;net/http&lt;/code&gt; pkg rather than the &lt;code&gt;fasthttp&lt;/code&gt;
+      implementation used by existing &amp;quot;express-like&amp;quot; libraries such as Fiber. This
+      meant I needed to think carefully about how to structure my solution in a way that felt
+      idiomatic to Go while balancing performance, ease of use and that “Express-like” feeling. &lt;/p&gt;
+      &lt;h1&gt;Why even tackle this project?&lt;/h1&gt; &lt;p&gt;Recreating a JavaScript library in
+      Go wasn’t just a random idea. It was an opportunity to explore the contrasts between Go and
+      JavaScript, both in syntax and paradigms. JavaScript libraries like Express.js often lean into
+      dynamic typing and heavy use of middleware chaining, while Go demands explicitness, type
+      safety, and simplicity. These differences presented interesting challenges:&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Middleware handling:&lt;/strong&gt; How could I replicate
+      Express-style middleware stacking in Go while staying idiomatic?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Dynamic
+      route parameters:&lt;/strong&gt; Express allows developers to easily define routes with
+      dynamic segments. Could I bring this ease to Go without sacrificing performance?&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Syntax simplicity:&lt;/strong&gt; Express.js has an intuitive syntax.
+      I wanted my router to maintain a similar level of developer experience while working within
+      Go’s constraints.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Design&lt;/h1&gt; &lt;ol&gt; &lt;li&gt;The
+      Router Structure&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Rather than building something ad-hoc, I
+      implemented a &lt;strong&gt;Patricia Trie&lt;/strong&gt; for route management. This approach
+      let me optimize for quick lookups, which aligns with my router’s primary goal: speed. With a
+      trie, static routes and dynamic parameters are processed efficiently, ensuring minimal latency
+      when matching a request.&lt;/p&gt; &lt;p&gt;For example, a route like &lt;code&gt;/user/:id&lt;/code&gt;
+      is stored in a way that allows partial matches along the path, ensuring that dynamic segments
+      (like &lt;code&gt;id&lt;/code&gt;) are handled seamlessly.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Middleware
+      Aggregation&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Express uses a middleware stack, where each
+      handler can modify the request/response or pass it to the next function. In Go, I opted for
+      middleware aggregation at &lt;strong&gt;build time&lt;/strong&gt;, meaning that when routes
+      are registered, all applicable middleware is precompiled into a single chain. This eliminates
+      the runtime cost of middleware collection, improving request-handling performance.&lt;/p&gt;
+      &lt;ol&gt; &lt;li&gt;Idiomatic Go Practices&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Go&amp;#39;s
+      philosophy encourages simplicity and explicitness. To stay true to this:&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Minimal dependencies:&lt;/strong&gt; I avoided introducing third-party
+      packages unless absolutely necessary only &lt;code&gt;google/uuid&lt;/code&gt; (which can be
+      replaced via config).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;net/http compatibility:&lt;/strong&gt;
+      The router integrates seamlessly with Go’s http.Handler, making it interoperable with the
+      standard library and other tools.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Type safety:&lt;/strong&gt;
+      No reliance on reflection or dynamic typing tricks.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Lessons
+      Learned&lt;/h1&gt; &lt;ol&gt; &lt;li&gt;Explicitness Wins&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;One
+      of the biggest takeaways was how Go’s preference for explicitness simplifies debugging and
+      maintenance. While dynamic behavior in JavaScript can feel magical, it often comes with
+      trade-offs in predictability and performance. By embracing Go’s straightforward nature, I
+      found myself writing code that was both easier to reason about and inherently faster.&lt;/p&gt;
+      &lt;ol&gt; &lt;li&gt;Trade-offs Are Inevitable&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Recreating
+      Express.js in Go highlighted some of the unavoidable trade-offs between the two languages. For
+      example, Go’s lack of native syntax for default parameters or variadic middleware chaining
+      required some creative workarounds. However, these limitations often led to better designs.&lt;/p&gt;
+      &lt;ol&gt; &lt;li&gt;Performance Without Complexity&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;By
+      focusing on Go’s strengths—like efficient memory management, and compile-time guarantees—I was
+      able to create a router that felt just as snappy as its JavaScript counterpart while remaining
+      lightweight.&lt;/p&gt; &lt;h1&gt;Why Reinvent the Wheel?&lt;/h1&gt; &lt;p&gt;Some might argue
+      that building another router in Go is a waste of time. However, for me, it was a valuable
+      exercise in understanding Go’s strengths and limitations. Reimplementing familiar concepts
+      from another language forced me to think critically about Go’s design philosophy and how it
+      influences real-world applications.&lt;/p&gt; &lt;p&gt;This project reminded me of something
+      every developer should embrace: &lt;strong&gt;reinventing the wheel isn’t about replacing
+      existing solutions—it’s about learning how the wheel works in the first place.&lt;/strong&gt;&lt;/p&gt;
+      &lt;h1&gt;Final Thoughts&lt;/h1&gt; &lt;p&gt;Recreating a JavaScript library in Go was both
+      challenging and rewarding. It pushed me to deeply understand Go’s capabilities and allowed me
+      to create something I’m genuinely proud of. For anyone considering a similar journey, I’d
+      encourage you to dive in—there’s no better way to learn than by doing.&lt;/p&gt; &lt;p&gt;What’s
+      next for my router? Maybe nothing—it’s already served its purpose as a learning exercise. But
+      who knows? Sometimes, the most interesting projects come from experiments like this.&lt;/p&gt;
+      &lt;h1&gt;For those curious, this is the final (not so final) product&lt;/h1&gt; &lt;p&gt;&lt;a
+      href=&quot;https://github.com/Juanfec4/velocity&quot;&gt;Velocity&lt;/a&gt;—a
+      high-performance, &amp;quot;Express-like&amp;quot; HTTP router for Go.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Here&amp;#39;s
+      a small sneak-peak:&lt;/strong&gt;&lt;/p&gt; &lt;pre&gt;&lt;code&gt;package main import (
+      &amp;quot;github.com/Juanfec4/velocity&amp;quot; &amp;quot;github.com/Juanfec4/velocity/middleware&amp;quot;
+      &amp;quot;net/http&amp;quot; ) func main() { app := velocity.New() router := app.Router(&amp;quot;/api&amp;quot;,
+      middleware.Logger(), middleware.CORS(), ) router.Get(&amp;quot;/users/:id&amp;quot;).Handle(
+      func(w http.ResponseWriter, r *http.Request) { params := velocity.GetParams(r) userID :=
+      params[&amp;quot;id&amp;quot;] w.Write([]byte(&amp;quot;User ID: &amp;quot; + userID)) })
+      app.Listen(8080) } &lt;/code&gt;&lt;/pre&gt; &lt;h1&gt;A Note on Feedback and Contributions&lt;/h1&gt;
+      &lt;p&gt;While my primary goal with Velocity was personal growth and exploration, I’m always
+      open to feedback, critiques, and reviews of the code. If you spot any areas for improvement or
+      have ideas for enhancements, feel free to share them—or even contribute directly.&lt;/p&gt;
+      &lt;p&gt;That said, Velocity isn’t meant to be a “serious” project competing with established
+      libraries. It’s a learning experiment and a way to better understand Go by building something
+      from scratch. Still, your thoughts and contributions would be greatly appreciated!&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Independent_Dog4&quot;&gt;
+      /u/Independent_Dog4 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu7xj9/reinventing_the_wheel_in_go_what_i_learned_from/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu7xj9/reinventing_the_wheel_in_go_what_i_learned_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gu7xj9</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gu7xj9/reinventing_the_wheel_in_go_what_i_learned_from/"/>
+    <updated>2024-11-18T15:55:59+00:00</updated>
+    <published>2024-11-18T15:55:59+00:00</published>
+    <title>Reinventing the wheel in Go - What I learned from replicating a JS library in Golang
+    </title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Otaxhu</name>
+      <uri>https://www.reddit.com/user/Otaxhu</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gullgp/json_and_xml_type_mismatch_tolerant_fork/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/Ij6kY8tjCw_RAatX1j1y8bw0Hv0YG-gZNWZM52R3Jtk.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bcc77654e0443a8413df22a841628526da420b64&quot;
+      alt=&quot;JSON and XML Type mismatch tolerant fork&quot; title=&quot;JSON and XML Type
+      mismatch tolerant fork&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by
+      &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Otaxhu&quot;&gt; /u/Otaxhu &lt;/a&gt;
+      &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://github.com/otaxhu/type-mismatch-encoding&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gullgp/json_and_xml_type_mismatch_tolerant_fork/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gullgp</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/Ij6kY8tjCw_RAatX1j1y8bw0Hv0YG-gZNWZM52R3Jtk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcc77654e0443a8413df22a841628526da420b64"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gullgp/json_and_xml_type_mismatch_tolerant_fork/"/>
+    <updated>2024-11-19T01:32:36+00:00</updated>
+    <published>2024-11-19T01:32:36+00:00</published>
+    <title>JSON and XML Type mismatch tolerant fork</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/radhar4</name>
+      <uri>https://www.reddit.com/user/radhar4</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am using
+      this golang package to create jenkins client and create a jenkins pipeline..&lt;/p&gt; &lt;pre&gt;&lt;code&gt;&amp;quot;github.com/bndr/gojenkins&amp;quot;&amp;quot;github.com/bndr/gojenkins&amp;quot;
+      &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Here is the snippet of my code,&lt;/p&gt; &lt;pre&gt;&lt;code&gt;func
+      NewJenkinsClient(client *http.Client, url string) (*gojenkins.Jenkins, error) { ctx :=
+      context.Background() return gojenkins.CreateJenkins(client, url, viper.GetString(&amp;quot;JENKINS_USER&amp;quot;),
+      viper.GetString(&amp;quot;JENKINS_TOKEN&amp;quot;)).Init(ctx) } url := fmt.Sprintf(&amp;quot;https://%s/job/xyz/job/backup-pipelines/createItem?name=%s_backup&amp;quot;,
+      viper.GetString(&amp;quot;JENKINS_HOST&amp;quot;), viper.GetString(&amp;quot;CLUSTER_NAME&amp;quot;))
+      jenkinsClient, err := sw.NewJenkinsClient(nil, finalURL) if err != nil { common.Error.Println(&amp;quot;failed
+      to createJenkinsClient: &amp;quot;, err) errors.ErrorCheck(err) } _, err =
+      jenkins.CreateJob(ctx, string(jobConfigXML), jobName)_, err = jenkins.CreateJob(ctx,
+      string(jobConfigXML), jobName) &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;But I am getting below error&lt;/p&gt;
+      &lt;pre&gt;&lt;code&gt;ERROR: 2024/11/19 07:46:27 main.go:165: failed to createJenkinsClient:
+      Query parameter &amp;#39;name&amp;#39; is required &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Eventhough
+      I pass name as query param, its still not picking it up. Any help on this please?&lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/radhar4&quot;&gt;
+      /u/radhar4 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guydrf/how_to_pass_query_params_in_jenkins_golang_package/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1guydrf/how_to_pass_query_params_in_jenkins_golang_package/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1guydrf</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1guydrf/how_to_pass_query_params_in_jenkins_golang_package/"/>
+    <updated>2024-11-19T14:28:12+00:00</updated>
+    <published>2024-11-19T14:28:12+00:00</published>
+    <title>How to pass query params in jenkins golang package ?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/osmollo</name>
+      <uri>https://www.reddit.com/user/osmollo</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt;
+      &lt;p&gt;A few years ago, I had to rewrite the old tool Corkscrew to Go cause I need kerberos
+      authentication in the proxy connection and Corkscrew just supports basic auth.&lt;/p&gt; &lt;p&gt;This
+      is how Gorkscrew was born. I&amp;#39;m very proud of this tool because I barely had any
+      knowledge of Go when I developed it.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/osmollo/gorkscrew&quot;&gt;https://github.com/osmollo/gorkscrew&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I hope this can help someone&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32;
+      submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/osmollo&quot;&gt;
+      /u/osmollo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu4mdx/gorkscrew_corkscrew_rewritten_in_go/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu4mdx/gorkscrew_corkscrew_rewritten_in_go/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gu4mdx</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gu4mdx/gorkscrew_corkscrew_rewritten_in_go/"/>
+    <updated>2024-11-18T13:25:20+00:00</updated>
+    <published>2024-11-18T13:25:20+00:00</published>
+    <title>Gorkscrew (Corkscrew rewritten in Go)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/keremimo</name>
+      <uri>https://www.reddit.com/user/keremimo</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello
+      Gophers,&lt;/p&gt; &lt;p&gt;I&amp;#39;m honestly writing this very reluctantly because in my
+      head I constantly think I&amp;#39;m going to be made fun of.&lt;/p&gt; &lt;p&gt;I&amp;#39;m
+      writing my Bash script in Go with extra automation to learn the syntax and certain logical
+      parts of the language. It&amp;#39;s basically a os.Exec machine but I wanted to do my bash
+      script in Go.&lt;/p&gt; &lt;p&gt;Some guy on the internet (who I assume is a senior) saw my
+      repo and started making fun of me and told me to do a real project instead like rewriting curl
+      or some other useful CLI tool.&lt;/p&gt; &lt;p&gt;While I know the first rule of the internet
+      is to not give two craps about internet strangers&amp;#39; negativity, I&amp;#39;ve been
+      feeling down about it and could use some encouragement.&lt;/p&gt; &lt;p&gt;With greetings,
+      Long time lurker&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32;
+      &lt;a href=&quot;https://www.reddit.com/user/keremimo&quot;&gt; /u/keremimo &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtydxm/discouraged_looking_for_encouragement/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtydxm/discouraged_looking_for_encouragement/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gtydxm</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gtydxm/discouraged_looking_for_encouragement/"/>
+    <updated>2024-11-18T06:14:08+00:00</updated>
+    <published>2024-11-18T06:14:08+00:00</published>
+    <title>Discouraged, Looking For Encouragement</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Nyarlathotep_Servant</name>
+      <uri>https://www.reddit.com/user/Nyarlathotep_Servant</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Does anyone
+      know of any Go libraries or tools that offer equivalent functionality to Impacket, especially
+      for tasks like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Netlogon authentication&lt;/li&gt; &lt;li&gt;SMB
+      operations (like authentication, enumeration, and exploitation)&lt;/li&gt; &lt;li&gt;Kerberos
+      interactions&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I’ve looked around a bit but haven’t found
+      something that matches Impacket’s versatility in Go yet. Any pointers or recommendations would
+      be greatly appreciated!&lt;/p&gt; &lt;p&gt;Thanks in advance!&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Nyarlathotep_Servant&quot;&gt;
+      /u/Nyarlathotep_Servant &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu93v0/looking_for_a_go_equivalent_of_the_impacket/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu93v0/looking_for_a_go_equivalent_of_the_impacket/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gu93v0</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gu93v0/looking_for_a_go_equivalent_of_the_impacket/"/>
+    <updated>2024-11-18T16:44:18+00:00</updated>
+    <published>2024-11-18T16:44:18+00:00</published>
+    <title>Looking for a Go equivalent of the Impacket library for Netlogon and SMB operations
+    </title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/profgumby</name>
+      <uri>https://www.reddit.com/user/profgumby</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtmnqx/lessons_learned_adding_opentelemetry_to_a_cobra/&quot;&gt;
+      &lt;img src=&quot;https://external-preview.redd.it/yFJ1n5yWU20PlVwvradThgqQhNmckUT8ercu2j-FwJE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5ac0b2773156b82dfbe86835b6598a7961d8e9d&quot;
+      alt=&quot;Lessons learned adding OpenTelemetry to a (Cobra) command-line Go tool&quot; title=&quot;Lessons
+      learned adding OpenTelemetry to a (Cobra) command-line Go tool&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;
+      &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/profgumby&quot;&gt;
+      /u/profgumby &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.jvt.me/posts/2024/11/17/cobra-otel-lessons/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtmnqx/lessons_learned_adding_opentelemetry_to_a_cobra/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+      &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+    </content>
+    <id>t3_1gtmnqx</id>
+    <media:thumbnail
+        url="https://external-preview.redd.it/yFJ1n5yWU20PlVwvradThgqQhNmckUT8ercu2j-FwJE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5ac0b2773156b82dfbe86835b6598a7961d8e9d"/>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gtmnqx/lessons_learned_adding_opentelemetry_to_a_cobra/"/>
+    <updated>2024-11-17T20:21:29+00:00</updated>
+    <published>2024-11-17T20:21:29+00:00</published>
+    <title>Lessons learned adding OpenTelemetry to a (Cobra) command-line Go tool</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marshaaall_</name>
+      <uri>https://www.reddit.com/user/marshaaall_</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi! I&amp;#39;ve
+      made a Golang library and command-line application to convert images into literally ascii
+      arts! For now there isn&amp;#39;t a wide variety of features but it&amp;#39;s more than enough
+      to play with/use in your projects! I named it asciifx and I have a dedicated website of it
+      that also uses Golang as a webserver&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/brylleee/asciifx&quot;&gt;Asciifx
+      Github repository&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://kairooo.online/asciifx&quot;&gt;Dedicated
+      Asciifx website&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by
+      &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marshaaall_&quot;&gt; /u/marshaaall_
+      &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtwvkw/first_golang_project_asciifx/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtwvkw/first_golang_project_asciifx/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gtwvkw</id>
+    <link href="https://www.reddit.com/r/golang/comments/1gtwvkw/first_golang_project_asciifx/"/>
+    <updated>2024-11-18T04:41:34+00:00</updated>
+    <published>2024-11-18T04:41:34+00:00</published>
+    <title>First Golang Project! - Asciifx</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sethammons</name>
+      <uri>https://www.reddit.com/user/sethammons</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;sharing a
+      package I use on my stuff.&lt;br/&gt; &lt;a href=&quot;http://github.com/sethgrid/kverr&quot;&gt;github.com/sethgrid/kverr&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;it allows you to add key-value pairs onto your error, and extract those later to put
+      into your logger, allowing structured logging of finer grained error details.&lt;/p&gt; &lt;p&gt;curious
+      what others think. cheers!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by
+      &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sethammons&quot;&gt; /u/sethammons &lt;/a&gt;
+      &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu96yk/package_to_help_with_structured_logs_and_errors/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gu96yk/package_to_help_with_structured_logs_and_errors/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gu96yk</id>
+    <link
+        href="https://www.reddit.com/r/golang/comments/1gu96yk/package_to_help_with_structured_logs_and_errors/"/>
+    <updated>2024-11-18T16:47:51+00:00</updated>
+    <published>2024-11-18T16:47:51+00:00</published>
+    <title>package to help with structured logs and errors: kverr</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/International_Gur691</name>
+      <uri>https://www.reddit.com/user/International_Gur691</uri>
+    </author>
+    <category term="golang" label="r/golang"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have tried
+      to find a good templating engine for go. Tested jit but it doesn’t feel right, I think it’s
+      something about the syntax that makes it hard for me. My editor is not highlighting it
+      properly.&lt;/p&gt; &lt;p&gt;I am coming from the Laravel world, but want to try building for
+      the web using go. Are there any templating engines that has good support in different editors
+      such as vscode or goland? &lt;/p&gt; &lt;p&gt;Which one do you use?&lt;/p&gt; &lt;/div&gt;&lt;!--
+      SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/International_Gur691&quot;&gt;
+      /u/International_Gur691 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtp1ea/what_templating_do_you_use/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/golang/comments/1gtp1ea/what_templating_do_you_use/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;
+    </content>
+    <id>t3_1gtp1ea</id>
+    <link href="https://www.reddit.com/r/golang/comments/1gtp1ea/what_templating_do_you_use/"/>
+    <updated>2024-11-17T22:06:08+00:00</updated>
+    <published>2024-11-17T22:06:08+00:00</published>
+    <title>What templating do you use?</title>
+  </entry>
+</feed>
