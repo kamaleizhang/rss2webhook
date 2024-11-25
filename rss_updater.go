@@ -50,7 +50,10 @@ func (r *RssUpdaterImpl) SyncRss(config Config) ([]HookRequest, error) {
 	for _, item := range feed.Items {
 		hashValue := hash(item.Content)
 		var eventType string
-		if dbRss, ok := rssFromDBMap[item.GUID]; ok && dbRss.ContentHash == hashValue {
+		if dbRss, ok := rssFromDBMap[item.GUID]; ok {
+			if dbRss.ContentHash == hashValue {
+				continue
+			}
 			eventType = "update"
 		} else {
 			eventType = "new"
@@ -58,7 +61,7 @@ func (r *RssUpdaterImpl) SyncRss(config Config) ([]HookRequest, error) {
 		result = append(result, NewHookRequest(eventType, config.Domain, config.RssURL, item))
 		updatedRss = append(updatedRss, NewRssFeed(config.Domain, config.RssURL, item.GUID, item.Updated, hashValue))
 	}
-
+	log.Printf("Synced %d items", len(result))
 	err = r.saveRssToDB(updatedRss)
 	if err != nil {
 		return nil, err
@@ -68,7 +71,7 @@ func (r *RssUpdaterImpl) SyncRss(config Config) ([]HookRequest, error) {
 
 // sql: select * from rss_feed where entry_id in (?,?,?) and domain =? and  rss_url = ?
 func (r *RssUpdaterImpl) fetchRssFromDB(ids []string, domain string, rssURL string) ([]RssFeed, error) {
-	query, args, err := sqlx.In("select * from rss_feed where entry_id in (?) and domain =? and rss_url =?",
+	query, args, err := sqlx.In("select * from rss_feeds where entry_id in (?) and domain =? and rss_url =?",
 		ids, domain, rssURL)
 	if err != nil {
 		log.Fatalf("Error preparing query: %v", err)
@@ -88,8 +91,8 @@ func (r *RssUpdaterImpl) saveRssToDB(result []RssFeed) error {
 		return err
 	}
 	upsertSQL := `
-	INSERT OR REPLACE INTO rss_feed (domain, rss_url, entry_id, last_updated, content_hash)
-	VALUES (:domain, :rss_url, :entry_id，:last_updated, :content_hash)
+	INSERT OR REPLACE INTO rss_feeds (domain, rss_url, entry_id, last_updated, content_hash)
+	VALUES (:domain,:rss_url,:entry_id,:last_updated,:content_hash)
 	`
 	for _, rss := range result {
 		_, err := tx.NamedExec(upsertSQL, rss)
